@@ -1,0 +1,16 @@
+.container{
+    background-color: antiquewhite;
+    align-self: center;
+    padding: 30px;
+    width: 100vh;
+    
+}
+form{
+    text-align: center;
+    margin-top: 20vh;
+    width: 100vh;
+}
+
+form input{
+    border-radius: 10px;
+}
